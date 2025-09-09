@@ -1,8 +1,9 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'Ionic React Tailwind',
+  // Updated identifiers so downstream users can easily replace them
+  appId: 'com.example.ionicreacttailwind',
+  appName: 'Ionic React Tailwind Starter',
   webDir: 'dist'
 };
 
