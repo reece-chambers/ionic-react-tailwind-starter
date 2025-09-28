@@ -88,7 +88,3 @@ pnpm up --latest
 ```
 
 and resolve any issues.
-
-## License
-
-MIT © Your Name
