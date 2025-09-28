@@ -23,9 +23,6 @@ import '@ionic/react/css/normalize.css';
 import '@ionic/react/css/structure.css';
 import '@ionic/react/css/typography.css';
 
-/* Tailwind base styles */
-import './tailwind.css';
-
 /**
  * Ionic Dark Mode
  * -----------------------------------------------------

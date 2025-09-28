@@ -9,6 +9,9 @@ const config = {
     extend: {},
   },
   plugins: [],
+  corePlugins: {
+    preflight: false, // Disable Tailwind’s reset to prevent Ionic layout conflicts
+  },
 };
 
 module.exports = config;
