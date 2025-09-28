@@ -1,3 +1,6 @@
+
+<img width="371" height="159" alt="ionic-react-tailwindcss" src="https://github.com/user-attachments/assets/2ec56f29-1b49-4548-bd9e-f550e3a85d89" />
+
 # Ionic React Tailwind Starter
 
 A minimal yet batteries-included starter template for building **Ionic** mobile & web apps with **React 19**, **Tailwind CSS 4**, **Vite 5** and **Capacitor 7**.
